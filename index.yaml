@@ -3,7 +3,7 @@ entries:
   sample:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-01-03T17:06:30.109973435+07:00"
+    created: "2023-01-03T17:14:10.149049815+07:00"
     description: A Helm chart for Kubernetes
     digest: 1e72bc7840f3e1f26870313f8e8b70005d70ca2f32e6ede82804d1dbf3ed9cef
     name: sample
@@ -11,4 +11,15 @@ entries:
     urls:
     - https://github.com/HungOnBlog/helmrepo.git/sample-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-03T17:06:30.108821929+07:00"
+  sample2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-01-03T17:14:10.14946261+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 9c93cc8eb36bbb094a956ddd3750f07957a84a817939fbcec4b9ae0ff01583ab
+    name: sample2
+    type: application
+    urls:
+    - https://github.com/HungOnBlog/helmrepo.git/sample2-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-01-03T17:14:10.148339323+07:00"
